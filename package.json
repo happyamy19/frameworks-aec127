@@ -1,0 +1,36 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.20.2",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/icons-material": "5.10.9",
+    "@mui/lab": "5.0.0-alpha.108",
+    "@mui/material": "5.10.12",
+    "@mui/system": "^5.4.1",
+    "@mui/x-date-pickers": "^5.0.8",
+    "@types/react": "18.0.24",
+    "date-fns": "^2.25.0",
+    "dayjs": "^1.11.6",
+    "fbjs": "0.2.1",
+    "luxon": "^1.28.0 || ^2.0.0 || ^3.0.0",
+    "material-ui": "0.12.2",
+    "moment": "2.29.4",
+    "react": "18.2.0",
+    "react-bootstrap": "2.5.0",
+    "react-dom": "18.1.0",
+    "react-tap-event-plugin": "0.1.8",
+    "toastr": "2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
